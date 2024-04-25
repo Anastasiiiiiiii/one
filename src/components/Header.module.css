@@ -1,0 +1,42 @@
+.item
+{
+    display: flex;
+    background-color: #F7F7F7 ;
+    height: 120px;
+    margin-top: 18px;
+    margin-left: 33px;
+    margin-right: 33px;
+
+}
+
+.button
+{
+    flex: 2;
+    margin: 35px;
+    margin-right: 45px;
+    line-height: 24px;
+    font-size: 24px;
+    border:0;
+    color: #460606;
+    background-color: #F7F7F7 ;
+}
+
+.h1
+{
+    flex: 1;
+    font-size: 96px;
+    color: #460606;
+    text-align: center;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 96px;
+
+}
+
+@font-face {
+    font-family: "Modern"; 
+    src: url("C:/Windows/Fonts/modern.fon") format("fon"); 
+    font-style: normal; 
+    font-weight: normal; 
+  } 
